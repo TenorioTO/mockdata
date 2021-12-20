@@ -21,7 +21,6 @@
             "department": "Facilities"
         }
     ],
-   
     "it": [
         {
             "employeeId" : "IT01",
@@ -91,5 +90,5 @@
             "firstName": "Josh",
             "lastName": "Tester"
         }
-    ],
+    ]
 }
