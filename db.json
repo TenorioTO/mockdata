@@ -20,7 +20,7 @@
             "id": "5",
             "department": "Facilities"
         }
-    ],
+    ], 
     "it": [
         {
             "employeeId" : "IT01",
@@ -71,23 +71,6 @@
         {
             "employeeId" : "MS03",
             "firstName": "Yamagushi",
-            "lastName": "Tester"
-        }
-    ],
-    "centralsupport": [
-        {
-            "employeeId" : "CS01",
-            "firstName": "Lobster",
-            "lastName": "Sea"
-        },
-        {
-            "employeeId" : "CS02",
-            "firstName": "Ravier",
-            "lastName": "Johns"
-        },
-        {
-            "employeeId" : "CS03",
-            "firstName": "Josh",
             "lastName": "Tester"
         }
     ]
