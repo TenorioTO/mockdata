@@ -1,0 +1,95 @@
+{
+    "department":[
+        {
+            "id": "1",
+            "department": "IT & Information Systems"
+        },
+        {
+            "id": "2",
+            "department": "Creative"
+        },
+        {
+            "id": "3",
+            "department": "Missions"
+        },
+        {
+            "id": "4",
+            "department": "Central Support"
+        },
+        {
+            "id": "5",
+            "department": "Facilities"
+        }
+    ],
+   
+    "it": [
+        {
+            "employeeId" : "IT01",
+            "firstName": "Thiago",
+            "lastName": "Oliveira"
+
+        },
+        {
+            "employeeId" : "IT02",
+            "firstName": "James",
+            "lastName": "Johns"
+
+        },
+        {
+            "employeeId" : "IT03",
+            "firstName": "John",
+            "lastName": "Tester"
+        }
+    ],
+    "creative": [
+        {
+            "employeeId" : "CR01",
+            "firstName": "Benjamin",
+            "lastName": "Oliveira"
+        },
+        {
+            "employeeId" : "CR02",
+            "firstName": "Guru",
+            "lastName": "Johns"
+        },
+        {
+            "employeeId" : "CR03",
+            "firstName": "Tatuape",
+            "lastName": "Molido"
+        }
+    ],
+    "missions": [
+        {
+            "employeeId" : "MS01",
+            "firstName": "Bingo",
+            "lastName": "Baunds"
+        },
+        {
+            "employeeId" : "MS02",
+            "firstName": "Georgia",
+            "lastName": "Johns"
+        },
+        {
+            "employeeId" : "MS03",
+            "firstName": "Yamagushi",
+            "lastName": "Tester"
+        }
+    ],
+    "centralsupport": [
+        {
+            "employeeId" : "CS01",
+            "firstName": "Lobster",
+            "lastName": "Sea"
+        },
+        {
+            "employeeId" : "CS02",
+            "firstName": "Ravier",
+            "lastName": "Johns"
+        },
+        {
+            "employeeId" : "CS03",
+            "firstName": "Josh",
+            "lastName": "Tester"
+        }
+    ],
+}
