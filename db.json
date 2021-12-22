@@ -25,53 +25,53 @@
         {
             "employeeId" : "IT01",
             "firstName": "Thiago",
-            "lastName": "Oliveira",
+            "lastName": "Oliveira"
 
         },
         {
             "employeeId" : "IT02",
             "firstName": "James",
-            "lastName": "Johns",
+            "lastName": "Johns"
 
         },
         {
             "employeeId" : "IT03",
             "firstName": "John",
-            "lastName": "Tester",
+            "lastName": "Tester"
         }
     ],
     "creative": [
         {
             "employeeId" : "CR01",
             "firstName": "Benjamin",
-            "lastName": "Oliveira",
+            "lastName": "Oliveira"
         },
         {
             "employeeId" : "CR02",
             "firstName": "Guru",
-            "lastName": "Johns",
+            "lastName": "Johns"
         },
         {
             "employeeId" : "CR03",
             "firstName": "Tatuape",
-            "lastName": "Molido",
+            "lastName": "Molido"
         }
     ],
     "missions": [
         {
             "employeeId" : "MS01",
             "firstName": "Bingo",
-            "lastName": "Baunds",
+            "lastName": "Baunds"
         },
         {
             "employeeId" : "MS02",
             "firstName": "Georgia",
-            "lastName": "Johns",
+            "lastName": "Johns"
         },
         {
             "employeeId" : "MS03",
             "firstName": "Yamagushi",
-            "lastName": "Tester",
+            "lastName": "Tester"
         }
     ]
 }
